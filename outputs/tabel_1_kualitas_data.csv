@@ -1,0 +1,27 @@
+﻿Pemeriksaan,Hasil,Status
+Jumlah baris data,650,
+Jumlah kolom data (kolom asli file),12,
+Periode data,02-01-2024 s.d. 01-10-2026,
+Tanggal tidak valid,0,OK
+Tanggal duplikat,0,OK
+Missing Open,0,OK
+Missing High,0,OK
+Missing Low,0,OK
+Missing Close,0,OK
+Missing Volume,0,OK
+Return hilang (hari pertama tidak punya hari sebelumnya),1,OK
+Return valid,649,
+Selisih maks Return bawaan vs hitung ulang dari Close,1.11e-16,OK
+Volume <= 0,0,OK
+OHLC tidak wajar: High < Low,0,OK
+OHLC tidak wajar: Close di luar rentang Low-High,0,OK
+Return = 0 (harga penutupan tidak berubah),92,
+Return > 0 / Return < 0,250 / 307,
+Jumlah observasi periode Normal,580,
+Jumlah observasi periode Pre,31,
+Jumlah observasi periode Event,8,
+Jumlah observasi periode Post,31,
+Jumlah observasi Normal+Pre+Event+Post = n data,650,OK
+Jumlah Event_ID unik (sheet Event_Rumor),8,OK
+Event_ID antar-sheet cocok,True,OK
+Jumlah event Rumor / Non-rumor,2 / 6,

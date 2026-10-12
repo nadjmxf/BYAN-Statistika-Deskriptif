@@ -1,0 +1,72 @@
+﻿Kategori,Ukuran,Nilai,Dipakai_di
+|Return| > 5%,Jumlah hari (total),30.0,4.4 Gambar 4.6
+|Return| > 5%,"Jumlah hari, periode Normal",13.0,4.4 Gambar 4.6
+|Return| > 5%,"Jumlah hari, periode Pre",9.0,4.4 Gambar 4.6
+|Return| > 5%,"Jumlah hari, periode Event",4.0,4.4 Gambar 4.6
+|Return| > 5%,"Jumlah hari, periode Post",4.0,4.4 Gambar 4.6
+Persentil ke-90 Volume,"Persentil ke-90 (lot, n = 649 hari ber-Return)",281540.00000000006,4.4 Gambar 4.6
+Persentil ke-90 Volume,Jumlah hari Volume > persentil ke-90,65.0,4.4 Gambar 4.6
+Persentil ke-90 Volume,Hari |Return| > 5% dengan Volume > persentil ke-90,17.0,4.4 Gambar 4.6
+Persentil ke-90 Volume,Proporsi hari |Return| > 5% yang Volume-nya > persentil ke-90,0.5666666666666667,4.4 Gambar 4.6
+Normal: Volume menurut besar |Return|,"Median Volume, hari Normal |Return| > 5% (lot)",181300.0,4.4 Gambar 4.6
+Normal: Volume menurut besar |Return|,"Median Volume, hari Normal |Return| <= 5% (lot)",44200.0,4.4 Gambar 4.6
+Normal: Volume menurut besar |Return|,Rasio kedua median (kali),4.101809954751131,4.4 Gambar 4.6
+log(Volume) per periode,Normal: median,10.711073274677059,4.4 Gambar 4.5
+log(Volume) per periode,Normal: Q1,10.062618934987636,4.4 Gambar 4.5
+log(Volume) per periode,Normal: Q3,11.436580308441677,4.4 Gambar 4.5
+log(Volume) per periode,Pre: median,11.710956315469362,4.4 Gambar 4.5
+log(Volume) per periode,Pre: Q1,10.830079438143656,4.4 Gambar 4.5
+log(Volume) per periode,Pre: Q3,13.815409947842557,4.4 Gambar 4.5
+log(Volume) per periode,Event: median,13.833760777783715,4.4 Gambar 4.5
+log(Volume) per periode,Event: Q1,11.813098389428433,4.4 Gambar 4.5
+log(Volume) per periode,Event: Q3,15.40092287023341,4.4 Gambar 4.5
+log(Volume) per periode,Post: median,12.750139603075967,4.4 Gambar 4.5
+log(Volume) per periode,Post: Q1,11.698803096067074,4.4 Gambar 4.5
+log(Volume) per periode,Post: Q3,13.878325654310686,4.4 Gambar 4.5
+log(Volume) keseluruhan,Minimum,7.3777589082278725,4.4 Gambar 4.3
+log(Volume) keseluruhan,Median,10.815770263012745,4.4 Gambar 4.3
+log(Volume) keseluruhan,Maksimum,16.25387576331636,4.4 Gambar 4.3
+Volume Normal tertinggi,Volume (lot),1567600.0,4.4 Gambar 4.5
+Volume Normal tertinggi,log(Volume),14.265056345307613,4.4 Gambar 4.5
+Lebar kelas histogram,Return (poin persen),0.7574330403134998,4.4 Gambar 4.2
+Lebar kelas histogram,Volume (lot),229054.0,4.4 Gambar 4.3
+Lebar kelas histogram,Batas atas kelas pertama Volume (lot),230654.0,4.4 Gambar 4.3
+Rasio Volume keseluruhan,Mean / median,4.415996292863762,4.2
+Rasio Volume keseluruhan,Maksimum / median,230.00602409638554,4.2
+Rasio Volume keseluruhan,Maksimum / Q3,103.21513854471728,4.2
+Rasio Volume keseluruhan,SD / IQR,10.056428843225452,4.2
+Rasio Return keseluruhan,SD / IQR,2.8694018218834447,4.2
+Rasio periode terhadap Normal (kali),Median |Return|: Pre / Normal,3.595890410958904,4.3
+Rasio periode terhadap Normal (kali),Median |Return|: Event / Normal,8.495607190335818,4.3
+Rasio periode terhadap Normal (kali),Median |Return|: Post / Normal,3.7330786719137685,4.3
+Rasio periode terhadap Normal (kali),Mean |Return|: Pre / Normal,4.670614265139953,4.3
+Rasio periode terhadap Normal (kali),Mean |Return|: Event / Normal,6.784432466895157,4.3
+Rasio periode terhadap Normal (kali),Mean |Return|: Post / Normal,2.9193760572112084,4.3
+Rasio periode terhadap Normal (kali),IQR Return: Pre / Normal,4.579586854297453,4.3
+Rasio periode terhadap Normal (kali),IQR Return: Event / Normal,6.3742818880263306,4.3
+Rasio periode terhadap Normal (kali),IQR Return: Post / Normal,4.3593867591361235,4.3
+Rasio periode terhadap Normal (kali),SD Return: Pre / Normal,3.5605266160401716,4.3
+Rasio periode terhadap Normal (kali),SD Return: Event / Normal,4.644019419838913,4.3
+Rasio periode terhadap Normal (kali),SD Return: Post / Normal,1.8425658118153427,4.3
+Rasio periode terhadap Normal (kali),Median Volume: Pre / Normal,2.717948717948718,4.3
+Rasio periode terhadap Normal (kali),Median Volume: Event / Normal,23.517279821627646,4.3
+Rasio periode terhadap Normal (kali),Median Volume: Post / Normal,7.683389074693422,4.3
+Komposisi hari berlabel,Rumor: hari Pre,10.0,4.3 Tabel 4.5
+Komposisi hari berlabel,Rumor: hari Event,2.0,4.3 Tabel 4.5
+Komposisi hari berlabel,Rumor: hari Post,2.0,4.3 Tabel 4.5
+Komposisi hari berlabel,Rumor: proporsi hari Pre,0.7142857142857143,4.3 Tabel 4.5
+Komposisi hari berlabel,Non-Rumor: hari Pre,21.0,4.3 Tabel 4.5
+Komposisi hari berlabel,Non-Rumor: hari Event,6.0,4.3 Tabel 4.5
+Komposisi hari berlabel,Non-Rumor: hari Post,29.0,4.3 Tabel 4.5
+Komposisi hari berlabel,Non-Rumor: proporsi hari Pre,0.375,4.3 Tabel 4.5
+Observasi ekstrem,Return: total ditandai,95.0,4.6
+Observasi ekstrem,Return: ditandai di luar event window (Normal),60.0,4.6
+Observasi ekstrem,Return: proporsi di luar event window,0.631578947368421,4.6
+Observasi ekstrem,Return: proporsi dalam event window,0.368421052631579,4.6
+Observasi ekstrem,Volume: total ditandai,75.0,4.6
+Observasi ekstrem,Volume: ditandai di luar event window (Normal),41.0,4.6
+Observasi ekstrem,Volume: proporsi di luar event window,0.5466666666666666,4.6
+Observasi ekstrem,Volume: proporsi dalam event window,0.45333333333333337,4.6
+Observasi ekstrem Normal,Return ditandai pada Jan-Sep 2026,34.0,4.6
+Observasi ekstrem Normal,Volume ditandai pada Jul-Agu 2024,15.0,4.6
+Observasi ekstrem Normal,"Volume ditandai pada Jun, Agu, Sep 2026",15.0,4.6
